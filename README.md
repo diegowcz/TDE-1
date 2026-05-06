@@ -1,4 +1,5 @@
-TDE 1 -  Git e GitHub
+TDE 1 -  
+Git e GitHub
 Este repositório contém alguns exercícios e configurações iniciais de versionamento solicitados na disciplina.
 
 Objetivos alcançados:
